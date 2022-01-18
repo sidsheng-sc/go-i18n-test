@@ -9,9 +9,6 @@ import (
 	"golang.org/x/text/language"
 )
 
-// tutorial: https://lokalise.com/blog/go-internationalization-using-go-i18n/
-// package: https://github.com/nicksnyder/go-i18n
-
 func main() {
 	//partOne()
 	//partTwo()
